@@ -6,7 +6,8 @@ It displays **current weather**, **hourly forecast**, and **weekly forecast** fo
 ---
 
 ## 📸 Screenshots
-*(Add screenshots Later  )*
+*![4f8bf57c-cb13-4054-a760-d7f3d7cb07cd](https://github.com/user-attachments/assets/2ce11c06-153b-4fde-8800-0ff23e97c77f)
+*
 
 ---
 

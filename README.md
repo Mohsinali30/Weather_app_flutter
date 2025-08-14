@@ -1,6 +1,6 @@
 # 🌤 Weather App — Flutter
 
-A modern weather application built with **Flutter**, using **geolocation**, **OpenWeather API**, and **glassmorphism UI**.  
+A  weather application built with **Flutter**, using **geolocation**, **OpenWeather API**, and **glassmorphism UI**.  
 It displays **current weather**, **hourly forecast**, and **weekly forecast** for your current location.
 
 ---
